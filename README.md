@@ -17,7 +17,7 @@ Here’s how to activate your bonus in under two minutes:
 3. Complete the signup form (email, username, password)
 4. Check the box for “Code (Optional)”
 5. Enter the promo code VIPMAX
-6.Click Play Now to confirm your account and start playing
+6. Click Play Now to confirm your account and start playing
 
 We followed this exact process and could unlock RooWards immediately after signing up. The cashback percentage started showing up right away in the top-right panel of our dashboard.
 
